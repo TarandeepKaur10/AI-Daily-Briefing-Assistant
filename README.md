@@ -1,46 +1,63 @@
 # 🧠 AI Daily Briefing Assistant
 
-An AI-powered dashboard that provides daily insights including Weather 🌤️, Stock Prices 📈, and Cricket News 🏏 — all in one place.
+An AI-powered dashboard that provides **daily insights in one place** — including Weather 🌤️, Stock Prices 📈, and Cricket News 🏏 — enhanced with intelligent tools like search, calculation, and translation.
 
 ---
 
 ## 🚀 Features
 
-- 🌤️ Real-time Weather Updates (Weather API)
-- 📈 Stock Price Tracking (yFinance)
-- 🏏 Latest Cricket News (News API)
-- 🧠 AI-generated Summary using Gemini + LangChain
-- ⚡ Extra AI Tools:
+- 🌤️ **Real-time Weather Updates**  
+  Get current weather conditions for any city using Weather API.
+
+- 📈 **Stock Market Tracking**  
+  Fetch latest stock prices using yFinance.
+
+- 🏏 **Cricket News Aggregation**  
+  Stay updated with latest cricket headlines using News API.
+
+- 🧠 **AI Summary (LangChain + Gemini)**  
+  Generates a smart summary combining all inputs.
+
+- ⚡ **Additional AI Tools**
   - 🔍 Web Search (DuckDuckGo)
   - 🧮 Calculator
-  - 🌍 Translation (English → French)
+  - 🌍 Language Translation (English → French)
 
 ---
 
 ## 🛠️ Tech Stack
 
-- Python
-- Streamlit
-- LangChain
-- Google Gemini API
-- yFinance
-- News API
-- DuckDuckGo Search
-- Deep Translator
+- **Frontend:** Streamlit  
+- **Backend:** Python  
+- **AI Framework:** LangChain  
+- **LLM:** Google Gemini API  
+- **APIs Used:**
+  - Weather API  
+  - News API  
+  - yFinance  
+- **Other Tools:**
+  - DuckDuckGo Search (DDGS)
+  - Deep Translator
 
 ---
 
 ## 📸 Demo
 
-> Add screenshot here later (very important for resume)
+> *(Add screenshot here — highly recommended for better impact)*
 
 ---
 
-## ⚙️ Setup & Run
+## ⚙️ Installation & Setup
 
 ```bash
+# Clone the repository
 git clone https://github.com/TarandeepKaur10/AI-Daily-Briefing-Assistant.git
+
+# Navigate to project folder
 cd AI-Daily-Briefing-Assistant
 
+# Install dependencies
 pip install -r requirements.txt
+
+# Run the app
 streamlit run app.py
