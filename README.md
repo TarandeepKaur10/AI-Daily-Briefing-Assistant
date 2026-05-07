@@ -43,9 +43,13 @@ An AI-powered dashboard that provides **daily insights in one place** — includ
 
 ## 📸 Demo
 
-<img width="772" height="622" alt="Screenshot 2026-05-07 204308" src="https://github.com/user-attachments/assets/4ced8982-7f7f-4702-8d99-d70a83eda4fb" />
-<img width="454" height="698" alt="Screenshot 2026-05-07 204355" src="https://github.com/user-attachments/assets/a71aa37f-bc01-42c3-a519-604d38b59ba2" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4ced8982-7f7f-4702-8d99-d70a83eda4fb" width="700"/>
+</p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a71aa37f-bc01-42c3-a519-604d38b59ba2" width="300"/>
+</p>
 
 ---
 
