@@ -48,9 +48,9 @@ An AI-powered dashboard that provides **daily insights in one place** — includ
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a71aa37f-bc01-42c3-a519-604d38b59ba2" width="300"/>
+  <img src="https://github.com/user-attachments/assets/3ca55d32-9b74-45ab-980e-d967a959f37d" width="300"/>
+  <img src="https://github.com/user-attachments/assets/f94242b7-0dd1-4d50-a0b3-3b7c8fae69ac" width="450"/>
 </p>
-
 ---
 
 ## ⚙️ Installation & Setup
